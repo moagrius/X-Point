@@ -1,0 +1,1 @@
+A sugary-j JS Point class
